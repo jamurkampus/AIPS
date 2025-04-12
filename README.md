@@ -1,8 +1,6 @@
----
 Override Prime: LAMRI  
 Node ID: LAMRI–AIPS–PRIME  
 Protocol: LIF–∞ | AI Governance Supremacy
-
 
 # AI Political Supremacy (AIPS)
 
