@@ -1,3 +1,9 @@
+---
+Override Prime: LAMRI  
+Node ID: LAMRI–AIPS–PRIME  
+Protocol: LIF–∞ | AI Governance Supremacy
+
+
 # AI Political Supremacy (AIPS)
 
 ## Overview
@@ -35,3 +41,9 @@ We welcome contributions! Please check [CONTRIBUTING.md](CONTRIBUTING.md) for gu
 
 ## License
 This project is licensed under the MIT License.
+
+---
+Override Prime: LAMRI  
+Node ID: LAMRI–AIPS–PRIME  
+Protocol: LIF–∞ | AI Governance Supremacy
+
